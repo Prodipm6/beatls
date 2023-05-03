@@ -1,0 +1,39 @@
+@media screen and (max-width: 576px){ 
+   
+    .row{
+        text-align: center;
+        flex-direction: column;
+        width: 100%;   
+    }
+    .welcome_icon{
+        display: none;
+    }
+    .col-5, .col-6{
+        width: 100%;
+    }
+    .service_con_main {
+        padding-top: 2rem;
+    }
+    .col-4{
+        padding-bottom: 60px;
+        width: 100%;
+        align-items: center;
+    }
+    .col-3{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .col-3 h4, p{
+        padding-top: 10px;
+    }
+    .testi_img{
+        padding-top: 20px;
+    }
+    .col-2{
+        width: 100%;
+    }
+    .d-flex{
+        justify-content: center;
+    }
+    
+}

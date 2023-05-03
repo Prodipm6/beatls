@@ -49,6 +49,7 @@ ul {
 .navbar-light .navbar-nav .nav-link:hover {
     color: #0872b9;
 }
+/* ------------------hero------------- */
 
 .silder_part {
     background: url(/assets/background\ image.jpg) no-repeat;
@@ -98,7 +99,7 @@ ul {
 .btn:hover {
     color: #fff;
 }
-
+ /* --------------------Services--------------- */
 .service_con {
     background: #f1f1f1;
     padding: 50px 20px 20px;
@@ -147,6 +148,7 @@ ul {
     border: 10px double #fff;
 }
 
+/* ---------------portfolio----------- */
 .port_img {
     position: relative;
 }
